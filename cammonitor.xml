@@ -1,0 +1,9 @@
+<prefab version="1.3.0">
+	<group pos="-1.7 1.5 -2.7">
+		<script pos="1.7 -1.5 2.7" file="MOD/camera.lua">
+			<voxbox tags="screen" pos="-1.8 1.5 -3.1" prop="true" size=" 6 4 1"/>
+			<voxbox tags="camera" pos="-1.8 1.5 -2.2" prop="true" size="1 1 1"/>
+		</script>
+	</group>
+</prefab>
+
